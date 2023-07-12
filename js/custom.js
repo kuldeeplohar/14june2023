@@ -2,11 +2,11 @@
 
 //camleCase
 
-function gritMystudents(name){
+function gritMyStudents(name){
     console.log('Hello '+name);
 }
 
-gritMystudents("kuldeep");
-gritMystudents('Prashant');
-gritMystudents('Rohit');
-gritMystudents("Pankaj");
+gritMyStudents("kuldeep");
+gritMyStudents('Prashant');
+gritMyStudents('Rohit');
+gritMyStudents("Pankaj");
